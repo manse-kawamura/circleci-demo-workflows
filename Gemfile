@@ -13,6 +13,7 @@ end
 # test changes 5
 # test changes 6
 # test changes 7
+# test changes 8
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.1'
 # Use postgresql as the database for Active Record
